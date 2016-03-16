@@ -2331,15 +2331,6 @@
 				width: 100%;
 			}
 
-		.image.halffit {
-			float: center;
-			margin: 0 0 2em 0;
-			width: 60%;
-		}
-			.image.halffit img {
-				width: 60%;
-			}
-
 /* List */
 
 	ol {
